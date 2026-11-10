@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">PY Stats, yalnızca Martı TAG ekranındaki yazıları (teklif tutarı, mesafe, durum) okuyup telefonundaki kayıt dosyasına yazar. Başka uygulamaların içeriği kaydedilmez ve hiçbir veri internete gönderilmez.</string>
+</resources>
